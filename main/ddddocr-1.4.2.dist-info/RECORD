@@ -1,0 +1,12 @@
+ddddocr-1.4.2.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+ddddocr-1.4.2.dist-info/LICENSE,sha256=HrhfyXIkWY2tGFK11kg7vPCqhgh5DcxleloqdhrpyMY,11558
+ddddocr-1.4.2.dist-info/METADATA,sha256=xzaE-eaYUA5Bhn6mARAZGQmHA_M_7cuYolN6XY8_884,8269
+ddddocr-1.4.2.dist-info/RECORD,,
+ddddocr-1.4.2.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+ddddocr-1.4.2.dist-info/WHEEL,sha256=ewwEueio1C2XeHTvT17n8dZUJgOvyCWCt0WVNLClP9o,92
+ddddocr-1.4.2.dist-info/top_level.txt,sha256=3vWTqO_TE_N_gu-HDIY0cJk5IN0A0AeFP2kFKYat_iM,8
+ddddocr/__init__.py,sha256=UaccItJ69FIrwnj5AprAf0nKlVmMgugP2QT2eomN92o,174724
+ddddocr/__pycache__/__init__.cpython-39.pyc,,
+ddddocr/common.onnx,sha256=kOQyY1v7EArGuFYiChCxhgUyZMwwfdBJ1Y6OomQ8tuk,54088521
+ddddocr/common_det.onnx,sha256=b6qOqFqMGmNOUFDEoTj8oQ8wGU4NervpreH81COvbtY,20127694
+ddddocr/common_old.onnx,sha256=sdXhNElUNVsQtAYyBiuKne8GvMMyKftmcnRmK_Mdzz8,13606198
