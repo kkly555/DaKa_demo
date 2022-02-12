@@ -1,8 +1,10 @@
 DaKa_demo
 
-这是一个郑州大学疫情填报程序，可以实现打卡操作。
+这是一个郑州大学疫情填报程序，可以实现打卡操作.
 
-提示：path作为本地账号和密码的存储。
+提示：path作为本地账号和密码的存储.
+
+注意：该程序需要下载microsoft visual c++ redistributable for visual studio 2019.
 
 1.1更新
 
